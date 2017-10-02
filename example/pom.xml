@@ -166,10 +166,6 @@
 		</dependency>
 	</dependencies>
 
-  <server>
-    <id>github</id>
-    <username>hirupatel567@gmail.com</username>
-    <password>ab123cb</password>
-  </server>  
+  
 
 </project>
